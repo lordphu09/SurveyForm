@@ -123,6 +123,6 @@ form{
     background-color: #008c36;
     color: rgb(214, 214, 214)
 }
-.input[type=checkbox], .input[type=radio]{
+.input[type="checkbox"], .input[type="radio"]{
     margin-right: 5px;
 }
